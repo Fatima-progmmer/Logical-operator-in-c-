@@ -24,10 +24,7 @@ Logical operators are used to perform logical operations in C. These operators r
    ```bash
    gcc logical_operators.c -o logical_operators
    ./logical_operators
-   ```  
-
-## 📸 Preview  
-*(Add a screenshot of the output if available!)*  
+   ```   
 
 ## 💡 Future Enhancements  
 🔹 Add more examples for nested conditions  
